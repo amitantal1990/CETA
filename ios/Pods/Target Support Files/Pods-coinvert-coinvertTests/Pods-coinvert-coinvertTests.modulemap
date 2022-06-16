@@ -1,0 +1,6 @@
+module Pods_coinvert_coinvertTests {
+  umbrella header "Pods-coinvert-coinvertTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
