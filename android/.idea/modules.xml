@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coinvert.iml" filepath="$PROJECT_DIR$/.idea/modules/coinvert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/coinvert.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/coinvert.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-186395550/coinvert.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-186395550/coinvert.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/700774157/coinvert.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/700774157/coinvert.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-231970130/coinvert.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-231970130/coinvert.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/536898869/coinvert.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/536898869/coinvert.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-322244979/coinvert.react-native-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/-322244979/coinvert.react-native-fetch-blob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-547225191/coinvert.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-547225191/coinvert.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-840173188/coinvert.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-840173188/coinvert.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-255427983/coinvert.react-native-geocoder.iml" filepath="$PROJECT_DIR$/.idea/modules/-255427983/coinvert.react-native-geocoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/920056721/coinvert.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/920056721/coinvert.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1021451799/coinvert.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1021451799/coinvert.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-401500677/coinvert.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-401500677/coinvert.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/33123987/coinvert.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/33123987/coinvert.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1711266798/coinvert.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1711266798/coinvert.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/42209962/coinvert.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/42209962/coinvert.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-88835467/coinvert.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-88835467/coinvert.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-141865111/coinvert.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-141865111/coinvert.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.datatransport:transport-runtime:3.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/6eb3248790a8790de09dd5bae5d5f66e/jetified-transport-runtime-3.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/6eb3248790a8790de09dd5bae5d5f66e/jetified-transport-runtime-3.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/6eb3248790a8790de09dd5bae5d5f66e/jetified-transport-runtime-3.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/2feb365b51b3dcfe9d3c7ff4009506c2/jetified-transport-runtime-3.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/2feb365b51b3dcfe9d3c7ff4009506c2/jetified-transport-runtime-3.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/2feb365b51b3dcfe9d3c7ff4009506c2/jetified-transport-runtime-3.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/3.0.0/7f506fe3498cda976d1b350c218464a0f1974982/transport-runtime-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.datatransport:transport-api:2.2.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/1cc1b185a640adfc0c93c8bea5e23b99/jetified-transport-api-2.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/90c318712cae3957b7fa73a84bfc4cad/jetified-transport-api-2.2.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/90c318712cae3957b7fa73a84bfc4cad/jetified-transport-api-2.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/90c318712cae3957b7fa73a84bfc4cad/jetified-transport-api-2.2.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/c2fef109edf01a88c09897cc1cc38132/jetified-transport-api-2.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/c2fef109edf01a88c09897cc1cc38132/jetified-transport-api-2.2.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/c2fef109edf01a88c09897cc1cc38132/jetified-transport-api-2.2.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/modules-2/files-2.1/com.google.android.datatransport/transport-api/2.2.1/44ab63fd6744b961c97d388fef15c888f99b561a/transport-api-2.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

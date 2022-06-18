@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-mlkit-face-detection:16.2.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/35648f3b4f9a2f8b1c2c0654de39912b/play-services-mlkit-face-detection-16.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/72cbbe065cc67758c201fe5ef53d15e1/play-services-mlkit-face-detection-16.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/72cbbe065cc67758c201fe5ef53d15e1/play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/72cbbe065cc67758c201fe5ef53d15e1/play-services-mlkit-face-detection-16.2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-face-detection/16.2.0/96f8df62ed7068d157c0129e01266eb27d940c7c/play-services-mlkit-face-detection-16.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

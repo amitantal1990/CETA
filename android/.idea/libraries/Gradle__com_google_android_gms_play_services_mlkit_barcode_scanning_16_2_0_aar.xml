@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/3d231125cdc7dbce94ff62aee800c60f/play-services-mlkit-barcode-scanning-16.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/90fdc617cbc1d668381d437b32fed0e6/play-services-mlkit-barcode-scanning-16.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/90fdc617cbc1d668381d437b32fed0e6/play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/transforms-2/files-2.1/90fdc617cbc1d668381d437b32fed0e6/play-services-mlkit-barcode-scanning-16.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../ravinder/VEGINEGI/android/gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-barcode-scanning/16.2.0/2a7792d1057a980a2fe32cc4cdc423755fb3b09e/play-services-mlkit-barcode-scanning-16.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
